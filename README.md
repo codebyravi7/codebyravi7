@@ -19,7 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/code_by_ravi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="code_by_ravi" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/code_by_ravi" target="blank">
+  <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-codechef-a-competitive-programming-community-logo-color-tal-revivo.png" alt="code_by_ravi" height="30" width="40" />
+</a>
 <a href="https://www.leetcode.com/ravikushwaha7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ravikushwaha7" height="30" width="40" /></a>
 </p>
 
