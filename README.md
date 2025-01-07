@@ -66,6 +66,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=codebyravi7&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebyravi7&" alt="GitHub Streak" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebyravi7&" alt="codebyravi7" /></p>
