@@ -14,17 +14,13 @@
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-2-ten-ochre.vercel.app/)  
 - 💬 Ask me about **React, MongoDB, and Full Stack Development**  
 - 📫 How to reach me: **ravidreamer7@gmail.com**  
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1qRyHj6i8Tt3IWisqv-ggl66xwrkr56ok/view?usp=sharing)  
+- 📄 See My Resume: [Resume](https://drive.google.com/file/d/1xue1zJ9snuZSM5BqLjeInXR0Yh21Yamj/view?usp=drive_link)  
 - ⚡ Fun fact: **I love solving DSA problems**  
 
-<h3 align="center">Connect with Me</h3>
-<p align="center">
-  <a href="https://www.leetcode.com/ravikushwaha7" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/code_by_ravi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.codechef.com/users/code_by_ravi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="code_by_ravi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ravikushwaha7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ravikushwaha7" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
