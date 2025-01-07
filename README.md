@@ -1,49 +1,31 @@
-<h1 align="center">Hi 👋, I'm Ravikant Kushwaha</h1>
-<h3 align="center">A passionate Full Stack Web Developer and Coding Enthusiast from India</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codebyravi7&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-<p align="center">
-  <img src="http://surl.li/cbxxjt" alt="Banner Image" />
-</p>
-
-<h3 align="center">🔭 Currently Working On</h3>
-<p align="center">
-  <a href="https://algosphere-frontend.vercel.app/" target="_blank">Portfolio Manager</a>
-</p>
-
-<h3 align="center">🌱 Currently Learning</h3>
-<p align="center">MERN Stack</p>
-
-<h3 align="center">👯 Collaboration Interests</h3>
-<p align="center">Chess Project</p>
-
-<h3 align="center">🤝 Seeking Help With</h3>
-<p align="center">Software Developer Internship</p>
-
-<h3 align="center">👨‍💻 All My Projects</h3>
-<p align="center">
-  <a href="https://portfolio3-rouge.vercel.app/" target="_blank">View Portfolio</a>
-</p>
-
-<h3 align="center">💬 Ask Me About</h3>
-<p align="center">React, MongoDB</p>
-
-<h3 align="center">📫 How to Reach Me</h3>
-<p align="center">ravidreamer7@gmail.com</p>
-
-<h3 align="center">📄 My Resume</h3>
-<p align="center">
-  <a href="https://drive.google.com/file/d/1qRyHj6i8Tt3IWisqv-ggl66xwrkr56ok/view?usp=sharing" target="_blank">View Resume</a>
-</p>
-
-<h3 align="center">Connect with Me</h3>
-<p align="center">
-  <a href="https://www.leetcode.com/ravikushwaha7" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px; padding: 20px;">
+  <div style="flex: 1; min-width: 300px;">
+    <h1>Hi 👋, I'm Ravikant Kushwaha</h1>
+    <h3>A passionate Full Stack Web Developer and Coding Enthusiast from India</h3>
+    <p>
+      <img src="https://komarev.com/ghpvc/?username=codebyravi7&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    </p>
+    <h3>🔭 Currently Working On</h3>
+    <p><a href="https://algosphere-frontend.vercel.app/" target="_blank">Portfolio Manager</a></p>
+    <h3>🌱 Currently Learning</h3>
+    <p>MERN Stack</p>
+    <h3>👯 Collaboration Interests</h3>
+    <p>Chess Project</p>
+    <h3>🤝 Seeking Help With</h3>
+    <p>Software Developer Internship</p>
+    <h3>👨‍💻 All My Projects</h3>
+    <p><a href="https://portfolio3-rouge.vercel.app/" target="_blank">View Portfolio</a></p>
+    <h3>💬 Ask Me About</h3>
+    <p>React, MongoDB</p>
+    <h3>📫 How to Reach Me</h3>
+    <p>ravidreamer7@gmail.com</p>
+    <h3>📄 My Resume</h3>
+    <p><a href="https://drive.google.com/file/d/1qRyHj6i8Tt3IWisqv-ggl66xwrkr56ok/view?usp=sharing" target="_blank">View Resume</a></p>
+  </div>
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <img src="http://surl.li/cbxxjt" alt="Banner Image" style="max-width: 100%; border-radius: 10px;" />
+  </div>
+</div>
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
