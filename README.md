@@ -1,7 +1,7 @@
 ![logo](https://github.com/codebyravi7/codebyravi7/blob/main/Bloom%20where%20you%20are%20planted..png)
 <h1 align="center">Hi 👋, I'm Ravikant Kushwaha</h1>
 <h3 align="center">A passionate full stack web-Developer and a coding geek from India</h3>
-<img align ="right" alt="Codng" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhweml6ZHhzNWtzcGE5bWVmaGI3OGw4Nnpxem1xb3JxNWFnbHZvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unxCGmTuBvwo2djRLA/giphy.webp">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebyravi7&label=Profile%20views&color=0e75b6&style=flat" alt="codebyravi7" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
