@@ -1,5 +1,3 @@
-/*![logo](https://github.com/codebyravi7/codebyravi7/blob/main/Bloom%20where%20you%20are%20planted..png)*/
-
 <h1 align="center">Hi 👋, I'm Ravikant Kushwaha</h1>
 <h3 align="center">A passionate full stack web-Developer and a coding geek from India</h3>
 
